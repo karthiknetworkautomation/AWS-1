@@ -274,6 +274,11 @@ https://aws.amazon.com/ec2/instance-types/
 
 ### Placement Groups - Cluster
 
+
+
+![image](https://user-images.githubusercontent.com/104765207/209676903-244052cf-9dc1-4597-a125-426179c42310.png)
+
+
 - Pros: Great network (10Gbps bandwidth between instances)
 - Cons: if the rack fails, all instances fail at the time
 - Use cases:
