@@ -266,6 +266,9 @@ https://aws.amazon.com/ec2/instance-types/
 
 ## Placement Groups
 
+![image](https://user-images.githubusercontent.com/104765207/209677185-4183a67b-b057-4a82-9f4f-0295bb09f958.png)
+
+
 - Sometimes we want to control how the EC2 instances are placed in the AWS infrastructure
 - When we create a placement group, we can specify one of the following placement strategies:
     - **Cluster** - cluster instances into a low-latency group in a single AZ
